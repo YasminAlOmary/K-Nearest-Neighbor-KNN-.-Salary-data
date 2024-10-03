@@ -1,0 +1,51 @@
+ID,Age,Education,Years_Experience,Job_Role,Salary,Location,Class_Label
+1,60,High School,23,Software Engineer,160078,New York,Below Median
+2,50,Master Degree,24,Software Engineer,130623,Austin,Above Median
+3,36,Associate Degree,37,Product Manager,72671,Los Angeles,Below Median
+4,64,Master Degree,35,Software Engineer,143384,New York,Above Median
+5,29,Associate Degree,22,Consultant,136202,Austin,Above Median
+6,42,Associate Degree,27,Designer,101663,Austin,Below Median
+7,60,Master Degree,35,Software Engineer,65708,Los Angeles,Above Median
+8,40,PhD,1,Product Manager,141906,New York,Above Median
+9,44,Associate Degree,35,Product Manager,99811,Los Angeles,Below Median
+10,32,Associate Degree,37,Software Engineer,183883,New York,Above Median
+11,32,Master Degree,14,Designer,106250,Seattle,Above Median
+12,45,Associate Degree,3,Software Engineer,162547,San Francisco,Above Median
+13,57,Associate Degree,1,Product Manager,174249,San Francisco,Below Median
+14,61,Master Degree,5,Data Scientist,84754,San Francisco,Above Median
+15,45,Master Degree,26,Consultant,192483,Los Angeles,Below Median
+16,24,High School,14,Product Manager,183983,Seattle,Above Median
+17,43,PhD,39,Software Engineer,189752,New York,Above Median
+18,23,PhD,27,Consultant,134896,Austin,Above Median
+19,45,Associate Degree,9,Software Engineer,121295,New York,Below Median
+20,51,PhD,15,Software Engineer,150689,Austin,Above Median
+21,59,Associate Degree,15,Data Scientist,61111,New York,Above Median
+22,23,High School,26,Consultant,87504,Seattle,Below Median
+23,42,Master Degree,13,Consultant,182874,Austin,Above Median
+24,54,Master Degree,32,Data Scientist,58155,Los Angeles,Below Median
+25,33,Master Degree,39,Product Manager,89384,New York,Below Median
+26,43,PhD,32,Software Engineer,162561,New York,Above Median
+27,46,High School,4,Designer,97254,Austin,Below Median
+28,48,PhD,30,Software Engineer,71918,Los Angeles,Above Median
+29,63,PhD,37,Software Engineer,135981,Los Angeles,Below Median
+30,49,High School,23,Product Manager,80306,Seattle,Below Median
+31,37,High School,39,Software Engineer,197718,Los Angeles,Above Median
+32,36,High School,15,Data Scientist,96843,Los Angeles,Below Median
+33,24,High School,29,Data Scientist,170975,Los Angeles,Below Median
+34,58,Master Degree,36,Consultant,146601,San Francisco,Below Median
+35,28,Bachelor Degree,13,Designer,157512,Seattle,Below Median
+36,42,Bachelor Degree,32,Software Engineer,197443,New York,Below Median
+37,30,High School,7,Software Engineer,161472,Austin,Above Median
+38,60,Bachelor Degree,22,Product Manager,183121,New York,Below Median
+39,39,Bachelor Degree,28,Data Scientist,153727,Seattle,Above Median
+40,25,High School,2,Designer,162893,Austin,Below Median
+41,46,Bachelor Degree,6,Consultant,70932,Seattle,Above Median
+42,35,PhD,28,Data Scientist,167796,Los Angeles,Above Median
+43,30,Associate Degree,28,Consultant,79855,Austin,Below Median
+44,47,Associate Degree,20,Product Manager,57400,Los Angeles,Below Median
+45,23,High School,30,Product Manager,167858,New York,Below Median
+46,41,Master Degree,11,Software Engineer,65151,New York,Above Median
+47,49,High School,28,Designer,116690,Austin,Below Median
+48,28,Master Degree,25,Consultant,54499,Austin,Above Median
+49,29,Associate Degree,39,Data Scientist,56295,Seattle,Above Median
+50,56,High School,33,Product Manager,170885,Seattle,Above Median
